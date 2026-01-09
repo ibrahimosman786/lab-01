@@ -28,10 +28,8 @@ The application creates multiple types of `Pet` objects (`Cat`, `Dog`, `Scorpion
 - Java Documentation (Oracle)
 
 
-
 ## Verbal Collaboration
 
-| Student Name | CCID      |
-| ------------ | --------- |
-| `Ibrahim`    | `1868521` |
-|              |           |
+| Name     | CCID    | Role / Notes     |
+|----------|---------|------------------|
+| Ibrahim  | 1868521 | Sole contributor |
