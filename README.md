@@ -1,4 +1,5 @@
 # CMPUT 301 : Lab 1 Participation Exercise
+**Java, OOP, and Android Studio**
 
 ## Student Details
 
