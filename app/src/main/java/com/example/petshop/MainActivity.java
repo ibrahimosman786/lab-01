@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d("PetShop", "Mood1: " + m1.describe() + " at " + m1.getDate());
         Log.d("PetShop", "Mood2: " + m2.describe() + " at " + m2.getDate());
 
-        // Screen output (this changes Hello World)
+        // Screen output 
         TextView output = findViewById(R.id.outputText);
 
         StringBuilder sb = new StringBuilder();
