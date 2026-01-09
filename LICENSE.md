@@ -1,10 +1,9 @@
 CMPUT 301 Student Submission License
 Version 2.0
 
-Copyright 2026 Ibrahim
+Copyright 2026 Ibrahim Osman
 
 Unauthorized redistribution is forbidden under all circumstances. Use of this
-software without explicit authorization from the author and the CMPUT 301
 Instructor is prohibited.
 
 This software was produced as a solution for an assignment or lab in the course
